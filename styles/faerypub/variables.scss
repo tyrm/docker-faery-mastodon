@@ -9,10 +9,11 @@ $gold-star: #ca8f04 !default;        // Dark Goldenrod
 $red-bookmark: $warning-red;
 
 // Values from the classic Mastodon UI
-$classic-base-color: #311317;         // Wooden Table FP
-$classic-primary-color: #9baec8;      // Echo Blue
-$classic-secondary-color: #d9e1e8;    // Pattens Blue
-$classic-highlight-color: #2b90d9;    // Summer Sky
+// https://colorhunt.co/palette/141715
+$classic-base-color: #5a3921;
+$classic-primary-color: #6b8c42;
+$classic-secondary-color: #7bc67b;
+$classic-highlight-color: #ffffb5;
 
 // Variables for defaults in UI
 $base-shadow-color: $black !default;
